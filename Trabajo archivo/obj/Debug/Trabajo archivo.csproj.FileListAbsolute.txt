@@ -10,3 +10,15 @@ C:\Users\Tomas\source\repos\Trabajo archivo\Trabajo archivo\obj\Debug\Trabajo ar
 C:\Users\Tomas\source\repos\Trabajo archivo\Trabajo archivo\obj\Debug\Trabajo archivo.csproj.CoreCompileInputs.cache
 C:\Users\Tomas\source\repos\Trabajo archivo\Trabajo archivo\obj\Debug\Trabajo archivo.exe
 C:\Users\Tomas\source\repos\Trabajo archivo\Trabajo archivo\obj\Debug\Trabajo archivo.pdb
+D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\bin\Debug\Trabajo archivo.exe.config
+D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\bin\Debug\Trabajo archivo.exe
+D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\bin\Debug\Trabajo archivo.pdb
+D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.csproj.AssemblyReference.cache
+D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo_archivo.Form_Caja.resources
+D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo_archivo.Form_Factura.resources
+D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo_archivo.Menu.resources
+D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo_archivo.Properties.Resources.resources
+D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.csproj.GenerateResource.cache
+D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.csproj.CoreCompileInputs.cache
+D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.exe
+D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.pdb

@@ -60,6 +60,7 @@ namespace Trabajo_archivo
             this.btn_modificar.TabIndex = 22;
             this.btn_modificar.Text = "Modificar";
             this.btn_modificar.UseVisualStyleBackColor = true;
+            this.btn_modificar.Click += new System.EventHandler(this.btn_modificar_Click);
             // 
             // lbl_numCaja
             // 
@@ -112,6 +113,7 @@ namespace Trabajo_archivo
             this.btn_Eliminar.TabIndex = 14;
             this.btn_Eliminar.Text = "Eliminar";
             this.btn_Eliminar.UseVisualStyleBackColor = true;
+            this.btn_Eliminar.Click += new System.EventHandler(this.btn_Eliminar_Click);
             // 
             // btn_agregar
             // 
