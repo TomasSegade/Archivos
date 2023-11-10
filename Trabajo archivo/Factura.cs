@@ -20,12 +20,18 @@ namespace Trabajo_archivo
 
         public Factura(string linea)
         {
+            string[] datos;
+
+            datos = linea.Split(',');
+            NumeroFactura = Convert.ToInt32(datos[0]);
+            NumeroCaja = Convert.ToInt32(datos[1]);
+            Monto = Convert.ToDouble(datos[2]);
 
         }
 
         public string GenerarRegistro()
         {
-            return $"{NumeroFactura};{NumeroCaja};{Monto}";
+            return $"{NumeroFactura},{NumeroCaja},{Monto}";
         }
 
         public override string ToString()

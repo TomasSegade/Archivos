@@ -88,22 +88,21 @@ namespace Trabajo_archivo
             {
                 string linea = reader.ReadLine();
                 while (linea != null)
-                {
-                    //////////// ERROR EN ESTA PARTE, LLEGA HASTAS ACA PERO NO MODIFICA
+                { 
+                    
                     Caja caja = new Caja(linea);
                     if (caja.NumeroCaja == numCaja)
                     {
-                        caja.Nombre = cajaNueva;
-                        caja.NumeroCaja = numNuevo;
+                        linea = $"{numNuevo};{cajaNueva}";
                         output += linea + Environment.NewLine;
                         linea = reader.ReadLine();
-                        ///////// ENTRA PERO NO MODIFICA
+                        
                     }
                     else
                     {
                         output += linea + Environment.NewLine;
                         linea = reader.ReadLine();
-                    } // PROBAR SIN EL ELSE PERO QUE ENTRE AL IF
+                    } 
                     
                 }
                 

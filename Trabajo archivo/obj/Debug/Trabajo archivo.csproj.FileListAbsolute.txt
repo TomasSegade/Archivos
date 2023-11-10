@@ -22,3 +22,15 @@ D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.c
 D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.csproj.CoreCompileInputs.cache
 D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.exe
 D:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.pdb
+C:\Users\Tomas\source\repos\Archivos\Trabajo archivo\bin\Debug\Trabajo archivo.exe.config
+C:\Users\Tomas\source\repos\Archivos\Trabajo archivo\bin\Debug\Trabajo archivo.exe
+C:\Users\Tomas\source\repos\Archivos\Trabajo archivo\bin\Debug\Trabajo archivo.pdb
+C:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.csproj.AssemblyReference.cache
+C:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo_archivo.Form_Caja.resources
+C:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo_archivo.Form_Factura.resources
+C:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo_archivo.Menu.resources
+C:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo_archivo.Properties.Resources.resources
+C:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.csproj.GenerateResource.cache
+C:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.exe
+C:\Users\Tomas\source\repos\Archivos\Trabajo archivo\obj\Debug\Trabajo archivo.pdb

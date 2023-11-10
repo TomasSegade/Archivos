@@ -40,6 +40,7 @@ namespace Trabajo_archivo
             this.lbl_monto = new System.Windows.Forms.Label();
             this.btn_modificar = new System.Windows.Forms.Button();
             this.btn_importar = new System.Windows.Forms.Button();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.SuspendLayout();
             // 
             // btn_agregar
@@ -51,6 +52,7 @@ namespace Trabajo_archivo
             this.btn_agregar.TabIndex = 0;
             this.btn_agregar.Text = "Agregar";
             this.btn_agregar.UseVisualStyleBackColor = true;
+            this.btn_agregar.Click += new System.EventHandler(this.btn_agregar_Click);
             // 
             // btn_Eliminar
             // 
@@ -61,6 +63,7 @@ namespace Trabajo_archivo
             this.btn_Eliminar.TabIndex = 1;
             this.btn_Eliminar.Text = "Eliminar";
             this.btn_Eliminar.UseVisualStyleBackColor = true;
+            this.btn_Eliminar.Click += new System.EventHandler(this.btn_Eliminar_Click);
             // 
             // lst_facturas
             // 
@@ -130,6 +133,7 @@ namespace Trabajo_archivo
             this.btn_modificar.TabIndex = 11;
             this.btn_modificar.Text = "Modificar";
             this.btn_modificar.UseVisualStyleBackColor = true;
+            this.btn_modificar.Click += new System.EventHandler(this.btn_modificar_Click);
             // 
             // btn_importar
             // 
@@ -139,6 +143,11 @@ namespace Trabajo_archivo
             this.btn_importar.TabIndex = 12;
             this.btn_importar.Text = "Importar Facturas";
             this.btn_importar.UseVisualStyleBackColor = true;
+            this.btn_importar.Click += new System.EventHandler(this.btn_importar_Click);
+            // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
             // 
             // Form_Factura
             // 
@@ -176,5 +185,6 @@ namespace Trabajo_archivo
         private System.Windows.Forms.Label lbl_monto;
         private System.Windows.Forms.Button btn_modificar;
         private System.Windows.Forms.Button btn_importar;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
     }
 }

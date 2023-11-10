@@ -60,6 +60,7 @@
     <Compile Include="Form_Factura.Designer.cs">
       <DependentUpon>Form_Factura.cs</DependentUpon>
     </Compile>
+    <Compile Include="GestorFacturas.cs" />
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
